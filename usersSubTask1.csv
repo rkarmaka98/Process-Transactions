@@ -1,10 +1,10 @@
 user_id,country,balance
-1001,USA,200.0
+1001,USA,1100.0
 1002,Japan,46900.0
 1003,UK,567.89
 1004,Australia,789.01
-1005,Germany,1734.56
-1006,France,678.9
+1005,Germany,734.56
+1006,France,778.9
 1007,Canada,1290.12
 1008,India,45000.0
 1009,Ireland,1000.0
